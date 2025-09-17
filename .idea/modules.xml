@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/2501101.iml" filepath="$PROJECT_DIR$/2501101.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week03/week03_report0-3/report0-3.iml" filepath="$PROJECT_DIR$/week03/week03_report0-3/report0-3.iml" />
       <module fileurl="file://$PROJECT_DIR$/week02/report01/report01.iml" filepath="$PROJECT_DIR$/week02/report01/report01.iml" />
       <module fileurl="file://$PROJECT_DIR$/week02/report02/report02.iml" filepath="$PROJECT_DIR$/week02/report02/report02.iml" />
       <module fileurl="file://$PROJECT_DIR$/week02/report03/report03.iml" filepath="$PROJECT_DIR$/week02/report03/report03.iml" />
@@ -11,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/week03/sample03/sample03.iml" filepath="$PROJECT_DIR$/week03/sample03/sample03.iml" />
       <module fileurl="file://$PROJECT_DIR$/week02/week02.iml" filepath="$PROJECT_DIR$/week02/week02.iml" />
       <module fileurl="file://$PROJECT_DIR$/week03/week03.iml" filepath="$PROJECT_DIR$/week03/week03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week03/week03_report03/week03_report03.iml" filepath="$PROJECT_DIR$/week03/week03_report03/week03_report03.iml" />
     </modules>
   </component>
 </project>
