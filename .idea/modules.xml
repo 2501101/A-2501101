@@ -6,7 +6,11 @@
       <module fileurl="file://$PROJECT_DIR$/week02/report01/report01.iml" filepath="$PROJECT_DIR$/week02/report01/report01.iml" />
       <module fileurl="file://$PROJECT_DIR$/week02/report02/report02.iml" filepath="$PROJECT_DIR$/week02/report02/report02.iml" />
       <module fileurl="file://$PROJECT_DIR$/week02/report03/report03.iml" filepath="$PROJECT_DIR$/week02/report03/report03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week03/sample01/sample01.iml" filepath="$PROJECT_DIR$/week03/sample01/sample01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week03/sample02/sample02.iml" filepath="$PROJECT_DIR$/week03/sample02/sample02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week03/sample03/sample03.iml" filepath="$PROJECT_DIR$/week03/sample03/sample03.iml" />
       <module fileurl="file://$PROJECT_DIR$/week02/week02.iml" filepath="$PROJECT_DIR$/week02/week02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week03/week03.iml" filepath="$PROJECT_DIR$/week03/week03.iml" />
     </modules>
   </component>
 </project>
